@@ -3,3 +3,4 @@ ipython
 dataset
 psycopg2
 textblob
+ostruct

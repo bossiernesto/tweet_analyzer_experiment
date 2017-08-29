@@ -6,7 +6,7 @@ from sqlalchemy.exc import ProgrammingError
 import json
 from Logger.strategies import NormalLogStrategy
 from persistance.datasetPersistance import DatasetPersistance
-from utils.ostruct import *
+from ostruct import OpenStruct
 
 TRACK_TERMS = ["python", "la caja", "alberdi"]
 CONNECTION_STRING = "sqlite:///mydatabase.db'"
