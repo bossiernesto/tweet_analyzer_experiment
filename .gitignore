@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+.pyc
+credentials.json
+__pycache__
+stream.db
+tweets.csv
+tweets.db
+
